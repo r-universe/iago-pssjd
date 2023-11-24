@@ -5,6 +5,9 @@
 [submodule "GramQuad"]
 	path = GramQuad
 	url = https://gitlab.com/iagogv/gramquad
+[submodule "clusterCrit"]
+	path = clusterCrit
+	url = https://gitlab.com/iagogv/clustercrit
 [submodule "trouBBlme4SolveR"]
 	path = trouBBlme4SolveR
 	url = https://gitlab.com/iagogv/troubblme4solver

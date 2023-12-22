@@ -5,6 +5,9 @@
 [submodule "GramQuad"]
 	path = GramQuad
 	url = https://gitlab.com/iagogv/gramquad
+[submodule "boxcoxmix"]
+	path = boxcoxmix
+	url = https://gitlab.com/iagogv/boxcoxmix
 [submodule "clusterCrit"]
 	path = clusterCrit
 	url = https://gitlab.com/iagogv/clustercrit

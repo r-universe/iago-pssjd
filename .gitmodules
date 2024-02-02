@@ -11,6 +11,9 @@
 [submodule "clusterCrit"]
 	path = clusterCrit
 	url = https://gitlab.com/iagogv/clustercrit
+[submodule "kedd"]
+	path = kedd
+	url = https://gitlab.com/iagogv/kedd
 [submodule "trouBBlme4SolveR"]
 	path = trouBBlme4SolveR
 	url = https://gitlab.com/iagogv/troubblme4solver
